@@ -54,7 +54,7 @@ The file structure of the application is as follows:
 
 ## Developers
 
-- [Your Name](https://github.com/YourGitHubUsername)
+- [Xiangyu](https://xywen97.github.io/)
 
 ## License
 

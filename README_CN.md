@@ -54,7 +54,7 @@ python app.py
 
 ## 开发者
 
-- [你的名字](https://github.com/你的GitHub用户名)
+- [Xiangyu](https://xywen97.github.io/)
 
 ## 许可证
 
