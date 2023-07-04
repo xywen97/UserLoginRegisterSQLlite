@@ -1,3 +1,5 @@
+[中文说明](README_CN.md)
+
 # Flask User Authentication Application
 
 This is a user authentication application based on the Flask framework, which supports user registration, login, logout, and viewing personal information. The application uses a SQLite database to store user information, and the password is hashed to ensure security. The application also uses a session object to store user IDs to track their state after logging in.
